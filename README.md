@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Annapurna Theerthala</h1>
-<h3 align="center">Java Backend Developer (Ex-Oracle, Ex-CDK global)</h3>
+<h3 align="center">Java Backend Developer (Intuit, Ex-Oracle, Ex-CDK global)</h3>
 
 <!--<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">-->
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
